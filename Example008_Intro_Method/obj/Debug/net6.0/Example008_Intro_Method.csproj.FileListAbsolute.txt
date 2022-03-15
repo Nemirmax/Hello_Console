@@ -3,3 +3,13 @@ C:\Users\79256\OneDrive\Рабочий стол\Знакомство с прог
 C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.AssemblyInfoInputs.cache
 C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.AssemblyInfo.cs
 C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.csproj.CoreCompileInputs.cache
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.exe
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.deps.json
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.runtimeconfig.json
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.dll
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\bin\Debug\net6.0\Example008_Intro_Method.pdb
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.dll
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\obj\Debug\net6.0\refint\Example008_Intro_Method.dll
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.pdb
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\obj\Debug\net6.0\Example008_Intro_Method.genruntimeconfig.cache
+C:\Users\79256\OneDrive\Рабочий стол\Знакомство с программированием\Examples_2\Hello_Console\Example008_Intro_Method\obj\Debug\net6.0\ref\Example008_Intro_Method.dll
